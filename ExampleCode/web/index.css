@@ -1,0 +1,12 @@
+img{
+  width: 35vw;
+  height: 35vh;
+  
+}
+
+h1{color: 'Red';}
+
+#login{
+	position: absolute;
+	transform: translate(0,-9vh);
+}

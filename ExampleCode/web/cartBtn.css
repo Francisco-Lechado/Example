@@ -1,0 +1,13 @@
+
+#cart{
+	position: absolute;
+	width: 150px; height: auto;
+	transform: translate(0, -25px);
+}
+
+.hideB {
+  		padding: 0;
+		border: none;
+		background: none;
+		margin-left: 50px;
+	}

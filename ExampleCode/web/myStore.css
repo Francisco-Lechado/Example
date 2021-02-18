@@ -1,0 +1,37 @@
+img{max-height: 40ex;}
+h1{text-align: center;}
+h2{text-align: right; margin-right: 25%}
+div{text-align: center; display: block;}
+
+#description{
+	text-align: justify;
+	width: 30em;
+	height: 5em;
+	resize: none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#price {
+	position: absolute;
+	transform: translate(900px,280px);
+}
+
+input {
+  		border: none;
+  		display: inline;
+  		font-family: inherit;
+  		font-size: inherit;
+  		padding: none;
+  		width: auto;
+  		width: 10em
+	}
+
+#inCart{
+  position: absolute;
+  transform: translate(88vw,20vh);
+}
